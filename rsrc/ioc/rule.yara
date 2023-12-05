@@ -10,4 +10,5 @@ rule CryptHunter_downloaderjs {
 
      condition:
        any of them
+
 }
